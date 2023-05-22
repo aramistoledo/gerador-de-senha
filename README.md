@@ -1,3 +1,7 @@
-## Projeto de uma aula feito com HTML, CSS e Javascript
+## Um site feito com HTML, CSS e JavaScript
+## Para visualizar o projeto acesse o link abaixo
+https://aramistoledo.github.io/gerador-de-senha/
+
+## Download
 ### Para fazer o download vá em Code em seguida Download Zip.
-### Depois de extrair o arquivo zip selecione o arquivo index para visualizar a pagina.
+### Depois basta extrair o arquivo zip
